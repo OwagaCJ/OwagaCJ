@@ -5,5 +5,5 @@ I am a Data Analyst with a strong background and experience in SQL and Data Visu
 - 🔭 I’m currently working on my Data Analysis portfolio projects.
 - 🌱 I’m currently learning Machine learning.
 - 👯 I’m looking to collaborate on Data Analysis projects.
-- 💬 Ask me about SQL and Data Visualization with Taleau.
+- 💬 Ask me about Python and Machine Learning.
 - ⚡ Fun fact: I enjoy telling stories with data.
